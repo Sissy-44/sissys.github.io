@@ -1,5 +1,5 @@
-# here are some profiles
+# Here are some notes
 
-# it is my first formal step in github
-# my heart is bubbling with excitement and curiosity
-# meanwhile,it is also the beginning of my life in redrock
+# It is my first formal step on GitHub
+# My heart is bubbling with excitement and curiosity
+# Meanwhile,it is also the beginning of my journey in RedRock
